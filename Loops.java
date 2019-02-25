@@ -16,7 +16,7 @@ public class Loops {
 		
 		//Numbers From 10 to 1
 
-		for (int i = 10; i >= 1; i--) {
+		for (int i = 10; i >= 0; i--) {
 
 			System.out.println(i);
 
@@ -24,7 +24,7 @@ public class Loops {
 
 		System.out.println();
 		
-		//Print Even Numbers
+		//Print Even Number
 
 		int[] array = { 12, 9, 4, 6, 3, 1, 9, 45 };
 
