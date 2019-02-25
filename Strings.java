@@ -155,7 +155,7 @@ public class Strings {
      }	 
       	 
       	 
-      	 
+      	// count the number of words in a string
       	 
 
  		String s = "hi  mji";
